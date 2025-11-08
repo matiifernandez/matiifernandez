@@ -18,10 +18,10 @@ My **10+ years of operational experience** in demanding fields (management, cons
 
 | Backend | Frontend | Database | Tools |
 | :---: | :---: | :---: | :---: |
-| **Ruby on Rails** | **Stimulus JS** | **PostgreSQL** | Git, VS Code |
-| Ruby | HTML5, CSS3 | SQLite | Heroku, Figma |
-| | *Learning: React & TypeScript (Front-End), Tailwind CSS (Styling)* | | |
-
+| <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails"/> | <img src="https://img.shields.io/badge/Stimulus-745a34?style=for-the-badge&logo=stimulus&logoColor=white" alt="Stimulus JS"/> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> | <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> |
+| <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> | <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/> | <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/> |
+| | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> | | |
+| | <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> | | |
 ---
 
 ### ✨ Featured Projects
