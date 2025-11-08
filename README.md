@@ -52,4 +52,4 @@ My previous experience directly translates into key professional soft skills:
 
 * **LinkedIn:** [https://www.linkedin.com/in/matias-fernandez-b590a028b/]
 * **Email:** [fernandez.n.mati@gmail.com]
-* **Portfolio:** [http//www.matifernandez.me]
+* **Portfolio:** [www.matifernandez.me]
