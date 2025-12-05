@@ -30,8 +30,10 @@ My **10+ years of operational experience** in demanding fields (management, cons
 
 * **[KizunaLingua]**
     > *Description:* A Language Learning app focused on couples learning each other's language. Built using RoR, focused on efficient database design and robust user authentication.
-* **[LatinRoomies]**
-    > *Description:* Shared house platform focusing on a niche market (Spanish-speakers in Australia). Developed as a personal project, demonstrating the full **MVC Architecture**, advanced **Data Modeling & Associations**, and robust **User Authentication/Authorization** in Ruby on Rails.
+  [kizunalingua.com]
+* **[UI-Forge]**
+    > *Description:* Plataform for front end developers that generates UI components for you sing AI, giving you a preview and the code ready to copy and paste. build in Ruby on Rails.
+  [https://github.com/matiifernandez/ui-forge]
 
 > [!TIP]
 > All code is organized using industry best practices. Feel free to explore my controllers and models for the core business logic!
