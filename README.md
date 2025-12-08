@@ -24,16 +24,16 @@ My **10+ years of operational experience** in demanding fields (management, cons
 | | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> | | |
 | | <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> | | |
 | | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> | | |
+
 ---
 
 ### ✨ Featured Projects
 
-* **[KizunaLingua]**
-    > *Description:* A Language Learning app focused on couples learning each other's language. Built using RoR, focused on efficient database design and robust user authentication.
-  [kizunalingua.com]
-* **[UI-Forge]**
-    > *Description:* Plataform for front end developers that generates UI components for you sing AI, giving you a preview and the code ready to copy and paste. build in Ruby on Rails.
-  [https://github.com/matiifernandez/ui-forge]
+* **[KizunaLingua](https://kizunalingua.com)**
+  *Description:* A Language Learning app focused on couples learning each other's language. Built using RoR, focused on efficient database design and robust user authentication.
+
+* **[UI-Forge](https://github.com/matiifernandez/ui-forge)**
+  *Description:* Platform for front end developers that generates UI components for you using AI, giving you a preview and the code ready to copy and paste. Built in Ruby on Rails.
 
 > [!TIP]
 > All code is organized using industry best practices. Feel free to explore my controllers and models for the core business logic!
@@ -52,6 +52,6 @@ My previous experience directly translates into key professional soft skills:
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [https://www.linkedin.com/in/matias-fernandez-b590a028b/]
-* **Email:** [fernandez.n.mati@gmail.com]
-* **Portfolio:** [www.matifernandez.me]
+* **LinkedIn:** [Matias Fernandez](https://www.linkedin.com/in/matias-fernandez-b590a028b/)
+* **Email:** [fernandez.n.mati@gmail.com](mailto:fernandez.n.mati@gmail.com)
+* **Portfolio:** [matifernandez.me](https://www.matifernandez.me)
