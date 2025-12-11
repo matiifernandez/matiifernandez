@@ -52,6 +52,6 @@ My previous experience directly translates into key professional soft skills:
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [Matias Fernandez](https://www.linkedin.com/in/matias-fernandez-b590a028b/)
+* **LinkedIn:** [Matias Fernandez](https://www.linkedin.com/in/matias-fernandez-jp)
 * **Email:** [fernandez.n.mati@gmail.com](mailto:fernandez.n.mati@gmail.com)
 * **Portfolio:** [matiasfernandez.me](https://www.matiasfernandez.me)
