@@ -5,6 +5,7 @@
 
 > [!IMPORTANT]
 > **I possess full, unrestricted working rights in Japan and do not require visa sponsorship.** Ready for immediate hiring.
+> **Open to Fullstack Dev or QA opportunities. Available to work in JST (Japan Standard Time) or for Latam-based companies requiring night shift/Oceania coverage.
 
 ### 🚀 About Me
 
