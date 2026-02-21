@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I am a highly motivated and disciplined developer specializing in the **Ruby on Rails ecosystem**
+I am a highly motivated and disciplined developer versatile in the **Ruby on Rails** and **JavaScript (React/React Native)** ecosystems. I specialize in using Rails to independently deliver quick, deploy-ready MVPs, while utilizing the JS ecosystem to thrive and build alongside teams.
 
 My **10+ years of operational experience** in demanding fields (management, construction, mining) is my greatest differentiator, providing a unique foundation in **discipline, operational efficiency, and critical problem-solving**—skills I now apply to writing robust and clean code.
 
