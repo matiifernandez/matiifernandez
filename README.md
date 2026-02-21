@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I am a highly motivated and disciplined developer specializing in the **Ruby on Rails ecosystem**, currently completing the intensive Le Wagon bootcamp (scheduled graduation: early December 2025).
+I am a highly motivated and disciplined developer specializing in the **Ruby on Rails ecosystem**
 
 My **10+ years of operational experience** in demanding fields (management, construction, mining) is my greatest differentiator, providing a unique foundation in **discipline, operational efficiency, and critical problem-solving**—skills I now apply to writing robust and clean code.
 
