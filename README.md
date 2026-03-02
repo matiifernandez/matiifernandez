@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Matias Fernandez
-### Full-Stack Developer | Ruby on Rails & PostgreSQL | Seeking Roles in Japan
+### Full-Stack Developer | JavaScript (React/React Native) ecosystems  -  Ruby on Rails & PostgreSQL | Seeking Roles in Japan
 
 ---
 
