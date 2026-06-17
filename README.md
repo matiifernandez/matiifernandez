@@ -31,6 +31,13 @@ My **10+ years of operational experience** in demanding fields (management, cons
 
 ### ✨ Featured Projects
 
+* **[Jidou-Nave](https://github.com/matiifernandez/jidou-nave)**  
+  *Description:* A MERN stack navigation and location-based web app built with MongoDB, Express, React, and Node.js. Focused on practical user flows, API integration, and modern full-stack architecture.
+
+* **[ShiftSync Japan](https://github.com/matiifernandez/ShiftSync-Japan)**  
+  *Description:* A scheduling and workforce coordination app designed for Japan-based teams. Built with a modern full-stack approach, focused on shift management, usability, and real-world operational workflows.
+
+
 * **[KizunaLingua](https://kizunalingua.com)**  
   *Description:* A Language Learning app focused on couples learning each other's language. Built using Ruby on Rails, focused on efficient database design and robust user authentication.
 
